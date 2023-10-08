@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&family=Roboto+Mono&family=Roboto:wght@500&display=swap');
+body{
+  font-family: Inter;
+}
+
+.font-white{
+  color:  #EAC08E;
+}
+.background-white{
+  background-color:  #EAC08E;
+}
+.background-black{
+  background-color: #16171C;
+}
+.font-black{
+  color: #16171C;
+}

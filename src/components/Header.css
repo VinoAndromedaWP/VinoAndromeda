@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 10px;
+    justify-content: space-evenly;
+    border-bottom: 3px solid #EAC08E;
+}
+
+.header-logo{
+    display: flex;
+    width: 96px;
+    height: 96px;
+}
+nav {
+    display: flex;
+    width: 100%;
+}
+nav ul{
+    list-style: none;
+    display: inherit;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+}

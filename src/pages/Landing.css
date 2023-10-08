@@ -1,0 +1,12 @@
+section{
+    height: 100%;
+    min-height: 700px;
+    padding: 10px;
+}
+
+.galaxy{
+    background-image: url('https://images.hdqwalls.com/download/andromeda-galaxy-way-ik-1366x768.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
